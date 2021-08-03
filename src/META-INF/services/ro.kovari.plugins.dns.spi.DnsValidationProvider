@@ -1,0 +1,3 @@
+ro.kovari.plugins.provider.DefaultProvider
+ro.kovari.plugins.provider.zoneee.ZoneEEProvider
+ro.kovari.plugins.provider.desec.DeSecProvider
