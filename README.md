@@ -3,7 +3,7 @@ An **ACMEv2** client implementation.
 Works with Let's Encrypt, Buypass, ZeroSSL or with any other ACMEv2 compliant Certificate Authority.  
 
 The application assumes that you **<code>AGREE</code>** to the **<code>Terms of Service</code>** of the ACME environment you will be using.
-Make sure you read them before using this application!  
+Make sure you read them before using this application!   
 
 Read more about the supported [Cryptographic Profiles](README-CRYPTO.md).  
 
