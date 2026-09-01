@@ -9,10 +9,10 @@ Read more about the supported [Cryptographic Profiles](README-CRYPTO.md).
 
 ##### Usage:
 ```
-$ ./certificate request -e <ENVIRONMENT> -c <CONTACT> ... -d <DOMAIN> ... [-p <PROVIDER>] [-a]
+$ ./certificate request -e <ENVIRONMENT> -c <CONTACT> -d <DOMAIN> [-p <PROVIDER>] [-a]
 ```
 ```
-$ ./certificate authorize -e <ENVIRONMENT> -c <ACCOUNT_NAME> -d <DOMAIN> ... [-p <PROVIDER>] [-a]
+$ ./certificate authorize -e <ENVIRONMENT> -c <ACCOUNT_NAME> -d <DOMAIN> [-p <PROVIDER>] [-a]
 ```
 ```
 $ ./certificate revoke -e <ENVIRONMENT> -c <ACCOUNT_NAME> -d <CERTIFICATE_NAME>
